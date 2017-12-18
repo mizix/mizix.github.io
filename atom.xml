@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://mizix.github.io/"/>
-  <updated>2017-12-18T04:02:07.208Z</updated>
+  <updated>2017-12-18T04:28:02.355Z</updated>
   <id>https://mizix.github.io/</id>
   
   <author>
@@ -17,26 +17,24 @@
   <generator uri="http://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>test</title>
-    <link href="https://mizix.github.io/2017/12/18/test/"/>
-    <id>https://mizix.github.io/2017/12/18/test/</id>
-    <published>2017-12-18T04:01:05.000Z</published>
-    <updated>2017-12-18T04:02:07.208Z</updated>
+    <title></title>
+    <link href="https://mizix.github.io/2017/12/18/404/"/>
+    <id>https://mizix.github.io/2017/12/18/404/</id>
+    <published>2017-12-18T04:27:58.227Z</published>
+    <updated>2017-12-18T04:28:02.355Z</updated>
     
-    <content type="html"><![CDATA[<p>테스트 입니다.</p>]]></content>
+    <content type="html"><![CDATA[<p>layout: 404<br>title: “[404]”<br>description: “May the Force be with you :&#41;”</p>]]></content>
     
     <summary type="html">
     
       
       
-        &lt;p&gt;테스트 입니다.&lt;/p&gt;
+        &lt;p&gt;layout: 404&lt;br&gt;title: “[404]”&lt;br&gt;description: “May the Force be with you :&amp;#41;”&lt;/p&gt;
 
       
     
     </summary>
     
-    
-      <category term="mizix" scheme="https://mizix.github.io/tags/mizix/"/>
     
   </entry>
   
